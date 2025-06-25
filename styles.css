@@ -1,0 +1,35 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(255, 249, 51, 0.2)
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: 800;
+    text-align: center;
+    color: rgb(255, 216, 37);
+    background-color: white;
+}
+
+.dish {
+    text-align: center;
+    list-style-type: none;
+
+}
+
+.lasagna, .sinigang_na_baka, .banoffee_pie{
+    margin: 20px;
+}
+
+a {
+ text-decoration: none; 
+ color: white;
+ font-weight: bold;
+}
+
+button {
+    background-color: gray;
+    border: none;
+    font-size: 20px;
+    padding: 15px 32px;
+}
