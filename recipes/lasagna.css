@@ -24,13 +24,27 @@ p {
     width: 610px;
     margin: 0 auto;
     text-align: justify;
-    
-    
-}
-
-.p1 {
     margin-bottom: 20px;
 }
 
 
+.ih {
+    text-align: center;
+    margin: 50px 0;
+    background-color: bisque;
+    font-size: 30px;
+}
 
+h3 {
+    text-align: center;
+}
+
+div {
+    width: 450px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+ol li {
+    margin: 20px 0;
+}
