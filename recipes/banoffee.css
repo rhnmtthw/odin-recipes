@@ -1,0 +1,61 @@
+html {
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#picture {
+    width: 850px;
+    margin: 0 auto;
+}
+img {
+    height: 500px;
+    width: auto;
+    
+}
+
+#title {
+    text-align: center;
+    background-color: white;
+    font-size: 50px;
+}
+
+.content {
+    width: 800px;
+    margin: 0 auto;
+    text-align: justify;
+    font-size: 18px;
+    margin-top: 50px ;
+}
+
+.subtitle{
+    text-align: center;
+    margin: 50px 0;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: burlywood;
+    padding: 20px 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+button {
+    font-size: 50px;
+    border-radius: 10px;
+    padding: 20px 50px;
+    border-style: none;
+    background-color: aqua;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: 800;
+}
+
+#home {
+    text-align: center;
+    margin-top: 80px ;
+}
